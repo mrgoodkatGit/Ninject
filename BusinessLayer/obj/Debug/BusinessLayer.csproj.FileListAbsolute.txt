@@ -1,0 +1,7 @@
+C:\Projects\SampleEntityFramworkWithNinject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Projects\SampleEntityFramworkWithNinject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Projects\SampleEntityFramworkWithNinject\BusinessLayer\bin\Debug\RepositoryLayer.dll
+C:\Projects\SampleEntityFramworkWithNinject\BusinessLayer\bin\Debug\RepositoryLayer.pdb
+C:\Projects\SampleEntityFramworkWithNinject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Projects\SampleEntityFramworkWithNinject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Projects\SampleEntityFramworkWithNinject\BusinessLayer\obj\Debug\BusinessLayer.pdb

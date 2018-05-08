@@ -1,0 +1,13 @@
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\BusinessLayer.dll
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\ControllerLayer.dll
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\Ninject.dll
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\RepositoryLayer.dll
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\BusinessLayer.pdb
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\ControllerLayer.pdb
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\RepositoryLayer.pdb
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\bin\Debug\Ninject.xml
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Projects\SampleEntityFramworkWithNinject\CommonLibrary\obj\Debug\CommonLibrary.pdb

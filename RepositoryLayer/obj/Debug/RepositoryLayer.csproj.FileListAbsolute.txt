@@ -1,0 +1,5 @@
+C:\Projects\SampleEntityFramworkWithNinject\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+C:\Projects\SampleEntityFramworkWithNinject\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+C:\Projects\SampleEntityFramworkWithNinject\RepositoryLayer\obj\Debug\RepositoryLayer.csprojResolveAssemblyReference.cache
+C:\Projects\SampleEntityFramworkWithNinject\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+C:\Projects\SampleEntityFramworkWithNinject\RepositoryLayer\obj\Debug\RepositoryLayer.pdb
